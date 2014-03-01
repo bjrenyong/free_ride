@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">百度位置服务Demo</string>
+    <string name="end_test_demo">结束测试</string>
+
+</resources>
